@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @AsahlumaTy1ka
-- 👀 I’m interested in computers👨🏾‍💻
-- 🌱 I’m currently learning C++ and bash😊🤘
-- 💞️ I’m looking to collaborate on open source projects 
-- 📫 How to reach me :You can't 🤧 
+- ❤️ I LOVE code👨‍💻(2nd after sleeping)
+- 🌱 I’m currently a student at The UFS learning C#(C-Hashtag is your dogs name😐)😊
+- 💞️ Linux enthusiast, Windows hater😊
+- ⛩️ Open to open source projects, ping me
+- 📫 How to reach me: 📧 Send a raven🦅 or email me...I prefer ravens.
 
-<!---
-AsahlumaTy1ka/AsahlumaTy1ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
